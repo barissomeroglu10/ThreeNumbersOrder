@@ -1,7 +1,7 @@
 /*
 In this code we will get 3 numbers from the user and will find the biggest number which user entered
 
-Developer: Bar?? Somero?lu
+Developer: Barış Someroğlu
 Date: 31.12.2023
 */
 
